@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tickle My Brain</string>
+    <string name="general_quiz">General Quiz</string>
+    <string name="science_quiz">Science Quiz</string>
+    <string name="shop">Shop</string>
+    <string name="_00">00</string>
+    <string name="money">money</string>
+</resources>
